@@ -1,0 +1,53 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: beige;
+    font-size: large;
+        text-align: center;
+        font-family: 'Mukta', sans-serif;
+            font-family: 'Noto Sans', sans-serif;
+            font-family: 'Quicksand', sans-serif;
+    font-size: larger;
+}
+
+header {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 5px;
+    font-family: 'Mukta', sans-serif;
+        font-family: 'Noto Sans', sans-serif;
+        font-family: 'Quicksand', sans-serif;
+}
+
+nav a{
+    text-align: center;
+    background-color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+nav a:hover {
+    border-radius: 5px;
+    border: 2px solid purple;
+    color: purple;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+footer {
+    text-align: center;
+}
+#contact {
+    text-align: center;
+    }
+.container {
+    position: relative;
+}
+
